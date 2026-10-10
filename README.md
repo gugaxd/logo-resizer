@@ -10,7 +10,7 @@ compartilha o mesmo sistema visual.
 
 ## Onde ele está no ar
 
-Dentro do hub [design tools](https://graphic-design-hub-two.vercel.app/), em `/logo-resizer/`.
+Dentro do [the hub](https://graphic-design-hub-two.vercel.app/), em `/logo-resizer/`.
 O código publicado vive no repositório
 [graphic-design-hub](https://github.com/gugaxd/graphic-design-hub), na pasta `logo-resizer/`.
 
